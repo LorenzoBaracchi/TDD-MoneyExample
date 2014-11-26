@@ -1,6 +1,6 @@
 public class Dollar {
 
-    int amount = 10;
+    private int amount = 10;
 
     public Dollar(int amount){
         this.amount = amount;
